@@ -1,0 +1,4 @@
+﻿  calculator.cpp
+C:\Users\Zany\Desktop\2020lessons\calculator\calculator\calculator.cpp(18,15): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Zany\Desktop\2020lessons\calculator\calculator\calculator.cpp(82,9): warning C4101: 'reminder': unreferenced local variable
+  calculator.vcxproj -> C:\Users\Zany\Desktop\2020lessons\calculator\Debug\calculator.exe
